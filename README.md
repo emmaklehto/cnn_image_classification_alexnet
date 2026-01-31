@@ -49,12 +49,14 @@ using transfer learning. No training is performed.
 
 Example:
 
-Top-1: 92.00% – tabby cat
+'images/cat.jpg': 85.86% is a 'Persian cat'
 
-Top-5:
-– tabby cat  
-– tiger cat  
-– Persian cat  
+Top 5 predictions:
+85.86% is a 'Persian cat'
+4.71% is a 'Egyptian cat'
+4.17% is a 'lynx, catamount'
+1.64% is a 'tabby, tabby cat'
+0.66% is a 'Angora, Angora rabbit'
 
 
 ## Observations
